@@ -1,0 +1,22 @@
+{
+  "name": "blogarap-api",
+  "version": "1.0.0",
+  "description": "API of blogarap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapmendoza/blogarap-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Serafin Mendoza III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapmendoza/blogarap-api/issues"
+  },
+  "homepage": "https://github.com/rapmendoza/blogarap-api#readme"
+}
